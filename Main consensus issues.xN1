@@ -1,0 +1,10 @@
+A consensus protocol will require a good understanding of how it should work and what problems in existing protocols will need to be addressed. I will be answering several important questions such as:
+
+- What are the basic principles that will be used in my consensus protocol?
+- How will voting and decision making occur in my protocol?
+- What measures will be taken in the event of conflicts, disagreements, or attacks on my protocol?
+- What means will be used to ensure the security and reliability of my protocol?
+
+These are just some of the questions I will have to answer when designing a consensus protocol. I will also have to decide on the programming language and platform I will use. 
+
+After defining the basic elements and parameters of my protocol, I will start coding it and testing it in real-world conditions, gradually improving it and advancing it to the next stages of development.
