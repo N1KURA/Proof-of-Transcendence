@@ -1,3 +1,10 @@
+N1KURA will be addressing important questions related to the development of a consensus protocol, such as the basic principles, the voting and decision-making process, what to do in case of conflicts, attacks on the protocol, and how to ensure its security. 
+The article then discusses the Proof-of-Transcendence consensus protocol and the methods used to protect it, including decentralization, transparency, flexibility, as well as multi-voting mechanisms, protection against attacks, and node identification systems. 
+N1KURA also discusses the voting mechanism using the Proof-of-Transcendence Identity mechanism for making decisions in a more decentralized and transparent way. 
+Moreover, the article discusses the methods and tools used to ensure the security and reliability of the protocol, such as cryptographic protocols, audits, and distributed data storage.
+
+
+
 A consensus protocol will require a good understanding of how it should work and what problems in existing protocols will need to be addressed. I will be answering several important questions such as:
 
 - What are the basic principles that will be used in my consensus protocol?
