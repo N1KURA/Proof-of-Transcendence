@@ -8,3 +8,58 @@ A consensus protocol will require a good understanding of how it should work and
 These are just some of the questions I will have to answer when designing a consensus protocol. I will also have to decide on the programming language and platform I will use. 
 
 After defining the basic elements and parameters of my protocol, I will start coding it and testing it in real-world conditions, gradually improving it and advancing it to the next stages of development.
+
+*[PoT]*
+The Proof-of-Transcendence consensus will be based on the following principles:
+
+1. Decentralization: The Proof-of-Transcendence protocol will be distributed among network nodes without a single point of control or management. Each network node will have the right to express their point of view and vote on decisions affecting the network.
+
+2. Consensus: The Proof-of-Transcendence protocol will ensure agreement between network nodes regarding transactions and other significant events. This means that all participants must agree on a common denominator when making decisions about what is right or wrong in the system.
+
+3. Capability of high load: The Proof-of-Transcendence protocol should provide effective traffic management in a high-load network. The system must be able to handle a huge volume of transactions without getting stuck or causing delays.
+
+4. Security: The Proof-of-Transcendence protocol must be protected from fraud, hacking and other types of attacks. This means that the system must be resistant to cyber attacks and protect users' personal data.
+
+5. Flexibility: The Proof-of-Transcendence protocol must be able to change according to new technologies and market needs. If a protocol's capabilities are outdated, it can be updated and modified to meet the requirements.
+
+6. Cost-effective: Proof-of-Transcendence protocol should be cost-effective to use. Each node in the network must have incentives to participate in consensus and keep the network running.
+
+7. Transparency: The Proof-of-Transcendence protocol should provide transparency in the operation of the network. Each user should be able to trace their transactions, as well as check the order and voting method used by network nodes.
+
+
+*[PoTi]*
+
+In the Proof-of-Transcendence protocol, voting and decision-making will occur through the Proof-of-Transcendence Identity mechanism, which will be based on the identification of nodes of the blockchain network.
+
+Each node in the network will have a unique identifier, which will be confirmed using the Proof-of-Transcendence mechanism. This mechanism will be based on checking hash functions from previous blocks and computing a new hash function for the current block. Network nodes will solve cryptographic problems to prove their identity and vote on decisions.
+
+Each network node will have the opportunity to vote for a particular decision based on its identity and reputation in the network. Reputation will be calculated based on a node's history, its success in solving cryptographic problems, and other factors that may affect its contribution to the network.
+
+Decisions will be made through multiple voting, with each vote weighed based on the node's reputation. When a certain overall reputation of nodes is reached, a certain decision will be considered accepted.
+
+This voting mechanism using Proof-of-Transcendence Identity will provide a reliable and secure way to make decisions in a more decentralized and transparent network.
+
+
+*[Conflicts, mismatches and attacks on the system]*
+
+The Proof-of-Transcendence protocol will take various measures to resolve possible conflicts, inconsistencies and attacks on the system.
+
+- In case of conflicts, voting can be held to resolve disputes between network nodes, based on the Proof-of-Transcendence Identity mechanism. A vote will be held and nodes with high reputation will have more voting weight.
+- If there is a disagreement between network nodes, a consensus mechanism will be used to help achieve a consensus among the nodes. Possible consensus mechanisms could be, for example, algorithms such as Byzantine fault tolerance (BFT), accepted peer election mechanisms, or other algorithms suitable for the protocol.
+- In the event of an attack on the system, measures may be taken to protect against malicious activities such as DDoS attacks or spam attempts. In addition, security measures can be applied at the cryptographic level, such as detecting and rejecting forged blocks or identifying the attacker and implementing secure data transfer protocols.
+- If any problems arise that may affect the operation of the protocol, a specific team can be assigned to manage and assist in resolving these problems. This team will be responsible for protocol review, security, development of new functionality, etc.
+
+In general, the measures taken in the event of conflicts, mismatches or attacks on the system will depend on the specific conditions and requirements, and will be selected depending on the specific situation.
+
+
+*[Consensus Security]*
+
+To ensure the security and reliability of the Proof-of-Transcendence protocol, the following methods and tools are used:
+
+1. Cryptographic protocols such as hashing, encryption and signature algorithms to ensure data integrity, confidentiality and authentication.
+
+2. Audits, such as code reviews and functionality testing, to detect vulnerabilities and flaws in the protocol and fix them.
+
+3. Distributed data storage, which can be achieved through the use of blockchain technology, to ensure higher reliability and resistance to attacks.
+
+4. Anti-attack mechanisms, such as DDoS protection mechanisms, means of detecting and repelling fake transactions, anti-spam mechanisms and others, to ensure data security and stable network operation.
