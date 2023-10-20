@@ -1,0 +1,9 @@
+Cryptography plays a key role in providing security in the Proof-of-Transcendence protocol as it ensures data integrity, confidentiality and authentication.
+
+Hash algorithms are used to store hashes of blocks, transactions, and other data on a blockchain network. These hashes ensure data integrity because By changing the hash of a block or transaction, the block chain will be broken and the entire blockchain network will stop working correctly.
+
+Encryption is used to ensure data confidentiality. In the Proof-of-Transcendence protocol, data can be encrypted before being sent to the network, and only the owners of private keys will be able to decrypt the data and gain access to it.
+
+Signature algorithms are used to confirm the authorship and authenticity of data. Each transaction on the blockchain network must be signed by the owner of the corresponding private key to confirm that he is the owner of this account and approves this transaction.
+
+The use of cryptographic protocols, such as hashing, encryption and signature algorithms, ensures the security of the Proof-of-Transcendence protocol and protects information from leaks and unauthorized access.
