@@ -18,3 +18,10 @@ First, blockchain xN1 will have high scalability and be capable of processing la
 Second, blockchain xN1 will have high levels of confidentiality and security due to the use of cryptographic protocols and decentralized mechanisms. This will provide security for user data and prevent potential hacker attacks on the system.
 Third, blockchain xN1 and its Proof-of-Transcendence consensus will be resistant to censorship and enable decentralized access to information. This will allow network participants to freely exchange information and use the network for their purposes.
 In summary, blockchain xN1 and its Proof-of-Transcendence consensus will solve the problems that make the use of blockchains complex at present and will be able to provide high performance and security in the blockchain system.
+
+How to determine transaction speed during the development phase? 
+One way to determine the transaction speed during the development of a blockchain is through performance testing. 
+Performance testing is the process of measuring and testing a system's performance, including its transaction processing speeds. During performance testing, performance goals and requirements are compared to the actual speeds and measures. 
+To execute performance testing for a blockchain, special tools like Apache JMeter can be used. These tools allow users to simulate loads on the system and measure transaction times in real-time, enabling early prediction of transaction speeds, and determine which enhancements need to be made to improve the blockchain's speed.
+Simulation methods can also be used during development to predict transaction speeds based on modeling various situations and conditions. This can provide insights into the performance of the blockchain system in real-world conditions and allow developers to make the necessary adjustments to optimize the system before its launch. 
+In summary, using performance tests and simulations can help determine the transaction speed during development and improve the overall performance of the blockchain system.
